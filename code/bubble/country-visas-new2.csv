@@ -1,0 +1,195 @@
+id,value
+Africa.Algeria,31
+Africa.Angola,24
+Africa.Benin,27
+Africa.Botswana,22
+Africa.Burkina Faso,24
+Africa.Burundi,25
+Africa.Cameroon,26
+Africa.Cape Verde,25
+Africa.Central African Republic,26
+Africa.Chad,26
+Africa.Comoros,28
+Africa.Democratic Republic of the Congo,23
+Africa.Djibouti,28
+Africa.Egypt,29
+Africa.Equatorial Guinea,30
+Africa.Eritrea,30
+Africa.Ethiopia,27
+Africa.Gabon,27
+Africa.Gambia,20
+Africa.Ghana,18
+Africa.Guinea,22
+Africa.Guinea-Bissau,22
+Africa.Ivory Coast,20
+Africa.Kenya,27
+Africa.Lesotho,23
+Africa.Liberia,21
+Africa.Libya,24
+Africa.Madagascar,27
+Africa.Malawi,23
+Africa.Mali,20
+Africa.Mauritania,25
+Africa.Mauritius,29
+Africa.Morocco,25
+Africa.Mozambique,25
+Africa.Namibia,24
+Africa.Niger,22
+Africa.Nigeria,19
+Africa.Republic of the Congo,25
+Africa.Rwanda,26
+Africa.São Tomé and Príncipe,30
+Africa.Senegal,24
+Africa.Seychelles,29
+Africa.Sierra Leone,18
+Africa.Somalia,21
+Africa.South Africa,29
+Africa.South Sudan,25
+Africa.Sudan,24
+Africa.Swaziland,22
+Africa.Tanzania,22
+Africa.Togo,26
+Africa.Tunisia,27
+Africa.Uganda,24
+Africa.Zambia,21
+Africa.Zimbabwe,24
+Asia.Afghanistan,16
+Asia.Armenia,26
+Asia.Azerbaijan,30
+Asia.Bahrain,28
+Asia.Bangladesh,17
+Asia.Bhutan,30
+Asia.Brunei,40
+Asia.Cambodia,27
+Asia.China,33
+Asia.Georgia,30
+Asia.India,26
+Asia.Indonesia,31
+Asia.Iran,24
+Asia.Iraq,18
+Asia.Israel,32
+Asia.Japan,38
+Asia.Jordan,25
+Asia.Kazakhstan,32
+Asia.Kuwait,34
+Asia.Kyrgyzstan,31
+Asia.Laos,23
+Asia.Lebanon,25
+Asia.Malaysia,36
+Asia.Maldives,30
+Asia.Mongolia,28
+Asia.Myanmar,26
+Asia.Nepal,21
+Asia.North Korea,26
+Asia.Oman,31
+Asia.Pakistan,17
+Asia.Philippines,27
+Asia.Qatar,28
+Asia.Saudi Arabia,30
+Asia.Singapore,36
+Asia.South Korea,39
+Asia.Sri Lanka,20
+Asia.Syria,17
+Asia.Tajikistan,30
+Asia.Thailand,33
+Asia.Turkey,29
+Asia.Turkmenistan,33
+Asia.United Arab Emirates,30
+Asia.Uzbekistan,30
+Asia.Vietnam,24
+Asia.Yemen,22
+Europe.Albania,30
+Europe.Andorra,38
+Europe.Austria,30
+Europe.Belarus,31
+Europe.Belgium,31
+Europe.Bosnia and Herzegovina,31
+Europe.Bulgaria,29
+Europe.Croatia,28
+Europe.Cyprus,26
+Europe.Czech Republic,28
+Europe.Denmark,31
+Europe.Estonia,29
+Europe.Finland,30
+Europe.France,31
+Europe.Germany,32
+Europe.Greece,30
+Europe.Hungary,29
+Europe.Iceland,32
+Europe.Ireland,35
+Europe.Italy,30
+Europe.Latvia,30
+Europe.Liechtenstein,33
+Europe.Lithuania,29
+Europe.Luxembourg,31
+Europe.Macedonia,34
+Europe.Malta,27
+Europe.Moldova,32
+Europe.Monaco,36
+Europe.Montenegro,31
+Europe.Netherlands,31
+Europe.Norway,32
+Europe.Poland,29
+Europe.Portugal,31
+Europe.Romania,28
+Europe.Russia,29
+Europe.San Marino,37
+Europe.Serbia,33
+Europe.Slovakia,29
+Europe.Slovenia,29
+Europe.Spain,31
+Europe.Sweden,31
+Europe.Switzerland,30
+Europe.Ukraine,31
+Europe.United Kingdom,40
+Europe.Vatican City,33
+North America.Antigua and Barbuda,25
+North America.Bahamas,27
+North America.Barbados,28
+North America.Belize,24
+North America.Canada,39
+North America.Costa Rica,30
+North America.Cuba,32
+North America.Dominica,28
+North America.Dominican Republic,34
+North America.El Salvador,30
+North America.Grenada,26
+North America.Guatemala,31
+North America.Haiti,28
+North America.Honduras,30
+North America.Jamaica,23
+North America.Mexico,35
+North America.Nicaragua,28
+North America.Panama,29
+North America.Saint Kitts and Nevis,29
+North America.Saint Lucia,29
+North America.Saint Vincent and the Grenadines,29
+North America.Trinidad and Tobago,27
+North America.United States,41
+Oceania.Australia,44
+Oceania.Fiji,30
+Oceania.Kiribati,31
+Oceania.Marshall Islands,32
+Oceania.Micronesia,35
+Oceania.Nauru,29
+Oceania.New Zealand,42
+Oceania.Palau,33
+Oceania.Papua New Guinea,33
+Oceania.Samoa,33
+Oceania.Solomon Islands,31
+Oceania.Timor-Leste,25
+Oceania.Tonga,29
+Oceania.Tuvalu,30
+Oceania.Vanuatu,32
+South America.Argentina,36
+South America.Bolivia,32
+South America.Brazil,35
+South America.Chile,35
+South America.Colombia,32
+South America.Ecuador,35
+South America.Guyana,30
+South America.Paraguay,32
+South America.Peru,39
+South America.Suriname,30
+South America.Uruguay,32
+South America.Venezuela,34

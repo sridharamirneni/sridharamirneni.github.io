@@ -1,0 +1,195 @@
+id,value
+Africa.Algeria,11
+Africa.Angola,8
+Africa.Benin,5
+Africa.Botswana,4
+Africa.Burkina Faso,9
+Africa.Burundi,7
+Africa.Cameroon,9
+Africa.Cape Verde,9
+Africa.Central African Republic,3
+Africa.Chad,7
+Africa.Comoros,7
+Africa.Democratic Republic of the Congo,5
+Africa.Djibouti,9
+Africa.Egypt,6
+Africa.Equatorial Guinea,8
+Africa.Eritrea,7
+Africa.Ethiopia,4
+Africa.Gabon,8
+Africa.Gambia,9
+Africa.Ghana,7
+Africa.Guinea,11
+Africa.Guinea-Bissau,9
+Africa.Ivory Coast,7
+Africa.Kenya,6
+Africa.Lesotho,5
+Africa.Liberia,10
+Africa.Libya,7
+Africa.Madagascar,8
+Africa.Malawi,5
+Africa.Mali,9
+Africa.Mauritania,10
+Africa.Mauritius,6
+Africa.Morocco,12
+Africa.Mozambique,7
+Africa.Namibia,5
+Africa.Niger,11
+Africa.Nigeria,7
+Africa.Republic of the Congo,6
+Africa.Rwanda,6
+Africa.São Tomé and Príncipe,6
+Africa.Senegal,10
+Africa.Seychelles,4
+Africa.Sierra Leone,5
+Africa.Somalia,2
+Africa.South Africa,7
+Africa.South Sudan,5
+Africa.Sudan,7
+Africa.Swaziland,5
+Africa.Tanzania,6
+Africa.Togo,9
+Africa.Tunisia,8
+Africa.Uganda,6
+Africa.Zambia,6
+Africa.Zimbabwe,7
+Asia.Afghanistan,6
+Asia.Armenia,10
+Asia.Azerbaijan,8
+Asia.Bahrain,12
+Asia.Bangladesh,8
+Asia.Bhutan,6
+Asia.Brunei,7
+Asia.Cambodia,7
+Asia.China,16
+Asia.Georgia,10
+Asia.India,15
+Asia.Indonesia,13
+Asia.Iran,10
+Asia.Iraq,8
+Asia.Israel,7
+Asia.Japan,4
+Asia.Jordan,12
+Asia.Kazakhstan,6
+Asia.Kuwait,10
+Asia.Kyrgyzstan,4
+Asia.Laos,11
+Asia.Lebanon,14
+Asia.Malaysia,7
+Asia.Maldives,6
+Asia.Mongolia,10
+Asia.Myanmar,8
+Asia.Nepal,9
+Asia.North Korea,8
+Asia.Oman,11
+Asia.Pakistan,12
+Asia.Philippines,11
+Asia.Qatar,12
+Asia.Saudi Arabia,11
+Asia.Singapore,4
+Asia.South Korea,6
+Asia.Sri Lanka,11
+Asia.Syria,1
+Asia.Tajikistan,7
+Asia.Thailand,12
+Asia.Turkey,10
+Asia.Turkmenistan,6
+Asia.United Arab Emirates,9
+Asia.Uzbekistan,7
+Asia.Vietnam,12
+Asia.Yemen,8
+Europe.Albania,9
+Europe.Andorra,7
+Europe.Austria,9
+Europe.Belarus,8
+Europe.Belgium,8
+Europe.Bosnia and Herzegovina,8
+Europe.Bulgaria,10
+Europe.Croatia,9
+Europe.Cyprus,8
+Europe.Czech Republic,11
+Europe.Denmark,8
+Europe.Estonia,7
+Europe.Finland,9
+Europe.France,7
+Europe.Germany,7
+Europe.Greece,8
+Europe.Hungary,10
+Europe.Iceland,7
+Europe.Ireland,12
+Europe.Italy,8
+Europe.Latvia,7
+Europe.Liechtenstein,6
+Europe.Lithuania,7
+Europe.Luxembourg,8
+Europe.Macedonia,12
+Europe.Malta,8
+Europe.Moldova,4
+Europe.Monaco,7
+Europe.Montenegro,7
+Europe.Netherlands,8
+Europe.Norway,8
+Europe.Poland,11
+Europe.Portugal,8
+Europe.Romania,10
+Europe.Russia,10
+Europe.San Marino,5
+Europe.Serbia,11
+Europe.Slovakia,10
+Europe.Slovenia,7
+Europe.Spain,8
+Europe.Sweden,7
+Europe.Switzerland,9
+Europe.Ukraine,10
+Europe.United Kingdom,9
+Europe.Vatican City,5
+North America.Antigua and Barbuda,10
+North America.Bahamas,5
+North America.Barbados,5
+North America.Belize,8
+North America.Canada,12
+North America.Costa Rica,8
+North America.Cuba,10
+North America.Dominica,7
+North America.Dominican Republic,9
+North America.El Salvador,8
+North America.Grenada,6
+North America.Guatemala,9
+North America.Haiti,7
+North America.Honduras,6
+North America.Jamaica,10
+North America.Mexico,12
+North America.Nicaragua,6
+North America.Panama,7
+North America.Saint Kitts and Nevis,5
+North America.Saint Lucia,6
+North America.Saint Vincent and the Grenadines,5
+North America.Trinidad and Tobago,5
+North America.United States,10
+Oceania.Australia,10
+Oceania.Fiji,4
+Oceania.Kiribati,4
+Oceania.Marshall Islands,7
+Oceania.Micronesia,8
+Oceania.Nauru,4
+Oceania.New Zealand,8
+Oceania.Palau,9
+Oceania.Papua New Guinea,4
+Oceania.Samoa,4
+Oceania.Solomon Islands,4
+Oceania.Timor-Leste,9
+Oceania.Tonga,5
+Oceania.Tuvalu,4
+Oceania.Vanuatu,4
+South America.Argentina,7
+South America.Bolivia,7
+South America.Brazil,8
+South America.Chile,7
+South America.Colombia,12
+South America.Ecuador,9
+South America.Guyana,7
+South America.Paraguay,7
+South America.Peru,9
+South America.Suriname,7
+South America.Uruguay,7
+South America.Venezuela,8

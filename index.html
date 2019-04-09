@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Visa Information</title>
+<style>
+
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
+}
+.title {
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 20px;
+	text-align:center;
+  text-color:green;
+}
+
+.titlemain {
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 20px;
+	text-align:center;
+  text-color:green;
+}
+
+chart {
+  border: 2px solid gray;
+  border-radius: 5px;
+
+}
+
+#chart{
+  text-align:center;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.choro
+{
+  text-align:center;
+  margin-left:10%;
+}
+.info
+{
+
+  font-size : 20px;
+	font-weight: italic;
+  text-align:center;
+  text-color:green;
+}
+
+.civ
+{
+  height:50px;
+  width:50px;
+}
+
+.pict
+{
+  text-align:center;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: green;
+}
+
+.centered {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+<body>
+<div class="container">
+<img src="code/visa.jpg" style="opacity: 0.2; width:100%"></img>
+<div class="centered"><p class="titlemain" style="color:green";>Visa Information</p></div>
+</div>
+</br>
+<p class="info" style="color:green";> To explore new worlds has always led the human race to reach new shores.</br> With the advent of industrialization, each region started having its own passport and visa regulations. A passport is the official document held by an individual that is issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries. A visa whereas is a permission document that is issued by a country to a passport holder as an endorsement on a passport indicating that the holder is allowed to enter, leave, or stay for a specified period of time in a country.</br></br>More than <b>16.1 million</b> visas were issued by the Schengen states in 2017.</p>
+
+<p id="chart"></p>
+<p style="width:2000px; height:50px;"></p>
+<p class="title"  style="color:blue;";>World Map</p>
+<p class="choro"><embed src="code/map/map.html" style="width:1100px; height:1500px;"></embed></p>
+</br>
+
+<p class="title"  style="color:blue;";>Radial Graph</p>
+<p class="choro"><embed src="code/stack/rad.html" style="width:1200px; height:1150px;"></embed></p>
+</br>
+
+<p class="title"  style="color:blue;";>Bubble Graph</p>
+<select id="fname">
+ <option value="1">Visa not required</option>
+ <option value="2">Visa On arrival</option>
+ <option value="3">ETA required</option>
+ <option value="4">eVisa required</option>
+ <option value="5">Visa required</option>
+ <option value="6">Admission refused</option>
+</select>
+
+<div id=1 >
+<p class="choro"><embed src="code/bubble/bubble1.html" style="width:1200px; height:1100px;"></embed></p>
+</div>
+
+<div id=2 style="display:none">
+<p class="choro"><embed src="code/bubble/bubble2.html" style="width:1200px; height:1100px;"></embed></p>
+</div>
+
+<div id=3 style="display:none">
+<p class="choro"><embed src="code/bubble/bubble3.html" style="width:1200px; height:1100px;"></embed></p>
+</div>
+
+<div id=4 style="display:none ">
+<p class="choro"><embed src="code/bubble/bubble4.html" style="width:1200px; height:1100px;"></embed></p>
+</div>
+
+<div id=5 style="display:none">
+<p class="choro"><embed src="code/bubble/bubble5.html" style="width:1200px; height:1100px;"></embed></p>
+</div>
+
+<div id=6 style="display:none">
+<p class="choro"><embed src="code/bubble/bubble6.html" style="width:1200px; height:1100px;"></embed></p>
+</div>
+
+
+<script>
+document.getElementById("fname").addEventListener("change", myFunction);
+document.getElementById("fname").addEventListener("onload", myFunction);
+
+
+function myFunction() {
+ var x = document.getElementById("fname");
+ console.log(x)
+ if (x.value=="1") {
+   console.log(x.value)
+
+   document.getElementById("1").style.display = "block";
+ document.getElementById("2").style.display = "none";
+ document.getElementById("3").style.display = "none";
+ document.getElementById("4").style.display = "none";
+ document.getElementById("5").style.display = "none";
+ document.getElementById("6").style.display = "none";
+ } else if (x.value=="2") {
+   document.getElementById("1").style.display = "none";
+ document.getElementById("2").style.display = "block";
+ document.getElementById("3").style.display = "none";
+ document.getElementById("4").style.display = "none";
+ document.getElementById("5").style.display = "none";
+ document.getElementById("6").style.display = "none";
+ }
+ else if (x.value=="3") {
+   document.getElementById("1").style.display = "none";
+ document.getElementById("2").style.display = "none";
+ document.getElementById("3").style.display = "block";
+ document.getElementById("4").style.display = "none";
+ document.getElementById("5").style.display = "none";
+ document.getElementById("6").style.display = "none";
+ }
+ else if (x.value=="4") {
+   document.getElementById("1").style.display = "none";
+ document.getElementById("2").style.display = "none";
+ document.getElementById("3").style.display = "none";
+ document.getElementById("4").style.display = "block";
+ document.getElementById("5").style.display = "none";
+ document.getElementById("6").style.display = "none";
+ }
+ else if (x.value=="5") {
+   document.getElementById("1").style.display = "none";
+ document.getElementById("2").style.display = "none";
+ document.getElementById("3").style.display = "none";
+ document.getElementById("4").style.display = "none";
+ document.getElementById("5").style.display = "block";
+ document.getElementById("6").style.display = "none";
+ }
+ else if (x.value=="6") {
+   document.getElementById("1").style.display = "none";
+ document.getElementById("2").style.display = "none";
+ document.getElementById("3").style.display = "none";
+ document.getElementById("4").style.display = "none";
+ document.getElementById("5").style.display = "none";
+ document.getElementById("6").style.display = "block";
+ }
+}
+
+</script>
+</body>
+</html>

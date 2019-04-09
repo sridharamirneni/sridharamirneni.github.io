@@ -1,0 +1,9 @@
+{
+  "name": "bubble-chart",
+  "main": "bubble-chart.js",
+  "version": "179.0.0",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  }
+}

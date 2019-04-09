@@ -1,0 +1,195 @@
+id,value
+Africa.Algeria,1
+Africa.Angola,0
+Africa.Benin,0
+Africa.Botswana,1
+Africa.Burkina Faso,1
+Africa.Burundi,0
+Africa.Cameroon,0
+Africa.Cape Verde,0
+Africa.Central African Republic,1
+Africa.Chad,1
+Africa.Comoros,0
+Africa.Democratic Republic of the Congo,1
+Africa.Djibouti,0
+Africa.Egypt,0
+Africa.Equatorial Guinea,1
+Africa.Eritrea,1
+Africa.Ethiopia,1
+Africa.Gabon,1
+Africa.Gambia,0
+Africa.Ghana,0
+Africa.Guinea,0
+Africa.Guinea-Bissau,0
+Africa.Ivory Coast,1
+Africa.Kenya,1
+Africa.Lesotho,1
+Africa.Liberia,0
+Africa.Libya,1
+Africa.Madagascar,1
+Africa.Malawi,1
+Africa.Mali,0
+Africa.Mauritania,0
+Africa.Mauritius,1
+Africa.Morocco,1
+Africa.Mozambique,1
+Africa.Namibia,1
+Africa.Niger,0
+Africa.Nigeria,0
+Africa.Republic of the Congo,0
+Africa.Rwanda,1
+Africa.São Tomé and Príncipe,1
+Africa.Senegal,1
+Africa.Seychelles,0
+Africa.Sierra Leone,0
+Africa.Somalia,1
+Africa.South Africa,1
+Africa.South Sudan,1
+Africa.Sudan,1
+Africa.Swaziland,1
+Africa.Tanzania,1
+Africa.Togo,1
+Africa.Tunisia,1
+Africa.Uganda,0
+Africa.Zambia,0
+Africa.Zimbabwe,0
+Asia.Afghanistan,1
+Asia.Armenia,1
+Asia.Azerbaijan,1
+Asia.Bahrain,1
+Asia.Bangladesh,0
+Asia.Bhutan,0
+Asia.Brunei,3
+Asia.Cambodia,1
+Asia.China,1
+Asia.Georgia,1
+Asia.India,1
+Asia.Indonesia,1
+Asia.Iran,1
+Asia.Iraq,1
+Asia.Israel,1
+Asia.Japan,3
+Asia.Jordan,1
+Asia.Kazakhstan,1
+Asia.Kuwait,1
+Asia.Kyrgyzstan,1
+Asia.Laos,0
+Asia.Lebanon,0
+Asia.Malaysia,2
+Asia.Maldives,0
+Asia.Mongolia,0
+Asia.Myanmar,0
+Asia.Nepal,1
+Asia.North Korea,1
+Asia.Oman,1
+Asia.Pakistan,0
+Asia.Philippines,1
+Asia.Qatar,1
+Asia.Saudi Arabia,1
+Asia.Singapore,2
+Asia.South Korea,4
+Asia.Sri Lanka,0
+Asia.Syria,0
+Asia.Tajikistan,1
+Asia.Thailand,1
+Asia.Turkey,1
+Asia.Turkmenistan,1
+Asia.United Arab Emirates,1
+Asia.Uzbekistan,1
+Asia.Vietnam,1
+Asia.Yemen,1
+Europe.Albania,1
+Europe.Andorra,1
+Europe.Austria,2
+Europe.Belarus,1
+Europe.Belgium,2
+Europe.Bosnia and Herzegovina,1
+Europe.Bulgaria,1
+Europe.Croatia,1
+Europe.Cyprus,1
+Europe.Czech Republic,2
+Europe.Denmark,2
+Europe.Estonia,2
+Europe.Finland,2
+Europe.France,2
+Europe.Germany,2
+Europe.Greece,2
+Europe.Hungary,2
+Europe.Iceland,2
+Europe.Ireland,2
+Europe.Italy,2
+Europe.Latvia,2
+Europe.Liechtenstein,2
+Europe.Lithuania,2
+Europe.Luxembourg,2
+Europe.Macedonia,1
+Europe.Malta,2
+Europe.Moldova,1
+Europe.Monaco,1
+Europe.Montenegro,1
+Europe.Netherlands,2
+Europe.Norway,2
+Europe.Poland,1
+Europe.Portugal,2
+Europe.Romania,1
+Europe.Russia,1
+Europe.San Marino,1
+Europe.Serbia,1
+Europe.Slovakia,2
+Europe.Slovenia,2
+Europe.Spain,2
+Europe.Sweden,2
+Europe.Switzerland,2
+Europe.Ukraine,1
+Europe.United Kingdom,2
+Europe.Vatican City,1
+North America.Antigua and Barbuda,1
+North America.Bahamas,1
+North America.Barbados,1
+North America.Belize,1
+North America.Canada,2
+North America.Costa Rica,1
+North America.Cuba,1
+North America.Dominica,1
+North America.Dominican Republic,1
+North America.El Salvador,1
+North America.Grenada,1
+North America.Guatemala,1
+North America.Haiti,1
+North America.Honduras,1
+North America.Jamaica,1
+North America.Mexico,1
+North America.Nicaragua,1
+North America.Panama,1
+North America.Saint Kitts and Nevis,1
+North America.Saint Lucia,1
+North America.Saint Vincent and the Grenadines,1
+North America.Trinidad and Tobago,1
+North America.United States,2
+Oceania.Australia,2
+Oceania.Fiji,0
+Oceania.Kiribati,0
+Oceania.Marshall Islands,0
+Oceania.Micronesia,0
+Oceania.Nauru,0
+Oceania.New Zealand,2
+Oceania.Palau,0
+Oceania.Papua New Guinea,0
+Oceania.Samoa,0
+Oceania.Solomon Islands,0
+Oceania.Timor-Leste,0
+Oceania.Tonga,0
+Oceania.Tuvalu,0
+Oceania.Vanuatu,0
+South America.Argentina,1
+South America.Bolivia,1
+South America.Brazil,1
+South America.Chile,2
+South America.Colombia,1
+South America.Ecuador,1
+South America.Guyana,1
+South America.Paraguay,1
+South America.Peru,0
+South America.Suriname,1
+South America.Uruguay,1
+South America.Venezuela,1

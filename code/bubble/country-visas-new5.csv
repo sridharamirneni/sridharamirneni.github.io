@@ -1,0 +1,195 @@
+id,value
+Africa.Algeria,137
+Africa.Angola,143
+Africa.Benin,135
+Africa.Botswana,130
+Africa.Burkina Faso,134
+Africa.Burundi,142
+Africa.Cameroon,141
+Africa.Cape Verde,130
+Africa.Central African Republic,147
+Africa.Chad,141
+Africa.Comoros,146
+Africa.Democratic Republic of the Congo,148
+Africa.Djibouti,147
+Africa.Egypt,143
+Africa.Equatorial Guinea,143
+Africa.Eritrea,147
+Africa.Ethiopia,151
+Africa.Gabon,138
+Africa.Gambia,123
+Africa.Ghana,132
+Africa.Guinea,131
+Africa.Guinea-Bissau,138
+Africa.Ivory Coast,136
+Africa.Kenya,123
+Africa.Lesotho,124
+Africa.Liberia,137
+Africa.Libya,151
+Africa.Madagascar,139
+Africa.Malawi,128
+Africa.Mali,137
+Africa.Mauritania,134
+Africa.Mauritius,70
+Africa.Morocco,130
+Africa.Mozambique,137
+Africa.Namibia,128
+Africa.Niger,133
+Africa.Nigeria,143
+Africa.Republic of the Congo,144
+Africa.Rwanda,139
+Africa.São Tomé and Príncipe,139
+Africa.Senegal,130
+Africa.Seychelles,64
+Africa.Sierra Leone,130
+Africa.Somalia,163
+Africa.South Africa,100
+Africa.South Sudan,152
+Africa.Sudan,153
+Africa.Swaziland,126
+Africa.Tanzania,128
+Africa.Togo,133
+Africa.Tunisia,127
+Africa.Uganda,129
+Africa.Zambia,128
+Africa.Zimbabwe,129
+Asia.Afghanistan,166
+Asia.Armenia,129
+Asia.Azerbaijan,125
+Asia.Bahrain,117
+Asia.Bangladesh,152
+Asia.Bhutan,144
+Asia.Brunei,55
+Asia.Cambodia,142
+Asia.China,124
+Asia.Georgia,88
+Asia.India,133
+Asia.Indonesia,125
+Asia.Iran,147
+Asia.Iraq,161
+Asia.Israel,42
+Asia.Japan,41
+Asia.Jordan,141
+Asia.Kazakhstan,121
+Asia.Kuwait,105
+Asia.Kyrgyzstan,133
+Asia.Laos,143
+Asia.Lebanon,143
+Asia.Malaysia,38
+Asia.Maldives,117
+Asia.Mongolia,132
+Asia.Myanmar,147
+Asia.Nepal,151
+Asia.North Korea,150
+Asia.Oman,119
+Asia.Pakistan,158
+Asia.Philippines,127
+Asia.Qatar,110
+Asia.Saudi Arabia,119
+Asia.Singapore,37
+Asia.South Korea,33
+Asia.Sri Lanka,148
+Asia.Syria,167
+Asia.Tajikistan,134
+Asia.Thailand,116
+Asia.Turkey,90
+Asia.Turkmenistan,139
+Asia.United Arab Emirates,66
+Asia.Uzbekistan,134
+Asia.Vietnam,140
+Asia.Yemen,155
+Europe.Albania,93
+Europe.Andorra,57
+Europe.Austria,39
+Europe.Belarus,117
+Europe.Belgium,40
+Europe.Bosnia and Herzegovina,89
+Europe.Bulgaria,47
+Europe.Croatia,50
+Europe.Cyprus,46
+Europe.Czech Republic,40
+Europe.Denmark,38
+Europe.Estonia,47
+Europe.Finland,37
+Europe.France,39
+Europe.Germany,37
+Europe.Greece,42
+Europe.Hungary,41
+Europe.Iceland,44
+Europe.Ireland,38
+Europe.Italy,38
+Europe.Latvia,46
+Europe.Liechtenstein,48
+Europe.Lithuania,46
+Europe.Luxembourg,39
+Europe.Macedonia,78
+Europe.Malta,44
+Europe.Moldova,89
+Europe.Monaco,52
+Europe.Montenegro,88
+Europe.Netherlands,40
+Europe.Norway,40
+Europe.Poland,42
+Europe.Portugal,40
+Europe.Romania,47
+Europe.Russia,85
+Europe.San Marino,57
+Europe.Serbia,75
+Europe.Slovakia,43
+Europe.Slovenia,46
+Europe.Spain,39
+Europe.Sweden,38
+Europe.Switzerland,40
+Europe.Ukraine,103
+Europe.United Kingdom,38
+Europe.Vatican City,69
+North America.Antigua and Barbuda,65
+North America.Bahamas,66
+North America.Barbados,60
+North America.Belize,105
+North America.Canada,39
+North America.Costa Rica,70
+North America.Cuba,125
+North America.Dominica,79
+North America.Dominican Republic,130
+North America.El Salvador,79
+North America.Grenada,74
+North America.Guatemala,79
+North America.Haiti,146
+North America.Honduras,81
+North America.Jamaica,109
+North America.Mexico,56
+North America.Nicaragua,90
+North America.Panama,74
+North America.Saint Kitts and Nevis,68
+North America.Saint Lucia,73
+North America.Saint Vincent and the Grenadines,71
+North America.Trinidad and Tobago,71
+North America.United States,36
+Oceania.Australia,40
+Oceania.Fiji,118
+Oceania.Kiribati,89
+Oceania.Marshall Islands,89
+Oceania.Micronesia,91
+Oceania.Nauru,122
+Oceania.New Zealand,40
+Oceania.Palau,92
+Oceania.Papua New Guinea,125
+Oceania.Samoa,82
+Oceania.Solomon Islands,82
+Oceania.Timor-Leste,111
+Oceania.Tonga,86
+Oceania.Tuvalu,87
+Oceania.Vanuatu,81
+South America.Argentina,51
+South America.Bolivia,124
+South America.Brazil,48
+South America.Chile,52
+South America.Colombia,82
+South America.Ecuador,109
+South America.Guyana,116
+South America.Paraguay,75
+South America.Peru,67
+South America.Suriname,124
+South America.Uruguay,64
+South America.Venezuela,70
